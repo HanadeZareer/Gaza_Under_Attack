@@ -1,0 +1,13 @@
+Family 1: number of martyrs(3)
+Parents: Yazan, Lama
+Members: Kareem, dareen, Amal
+..........................................................
+Family 2: number of martyrs(2)
+Parents: Obadah, Jana
+Members: Amr
+..........................................................
+Family 3: number of martyrs(1)
+Parents: kamal, narmeen
+Members: saed, lubna
+..........................................................
+

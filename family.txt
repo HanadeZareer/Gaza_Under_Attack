@@ -1,0 +1,16 @@
+Family : qassam
+Parent : Live Person : Yazan, 24, M, Gaza-Beach camp, 05610201
+Parent : Martyr : Lama, 21, F, Gaza-Beach camp, 29/12/2023, War, home
+Member : Martyr : Kareem, 4, M, Gaza-Beach camp, 29/12/2023, War, home
+Member : Martyr : dareen, 6, M, Gaza-Beach camp, 29/12/2023, War, home
+Member : Live Person : Amal, 2, F, Gaza-Beach camp, 05919801
+Family : naser
+Parent : Martyr : Obadah, 30, M, Gaza-Nuseirat camp, 24/11/2023, War, UNRWA school
+Parent : Martyr : Jana, 25, F, Gaza-Nuseirat camp, 24/11/2023, War, UNRWA school
+Member : Live Person : Amr, 5, M, Gaza-Nuseirat camp, null
+Family : ammar
+Parent : Live Person : kamal, 50, M, Gaza City, 0523627
+Parent : Martyr : narmeen, 48, F, Gaza City, 12/12/2023, War, Al-Shifa Hospital
+Member : Live Person : saed, 20, M, Gaza City, 02352362
+Member : Live Person : lubna, 24, F, Gaza City, 01261752
+
